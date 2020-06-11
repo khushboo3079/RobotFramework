@@ -18,3 +18,6 @@ Invalid_Login_Functionality_TC002
     ...    
   
   Invalid login to application
+Functionality_TC003
+    Log    This is my 3rd Test case
+    
