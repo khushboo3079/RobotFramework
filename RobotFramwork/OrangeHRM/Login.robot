@@ -21,3 +21,7 @@ Invalid_Login_Functionality_TC002
 Functionality_TC003
     Log    This is my 3rd Test case
     
+Functionality_TC004
+    Log    This is my 4th Test case
+    
+    
